@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.videpage {
+    width: 100%;
+    height: 100dvh;
+    margin-top: 420px;
+    background: #1F45E4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.action {
+    width: 580px;
+    height: 124px;
+    /* border: 2px solid yellow; */
+    display: flex;
+    align-items: center;
+    margin-bottom: 120px;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.action h1 {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    color: #FFFFFF;
+}
+
+.action p {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.imgvideo {
+    width: 100px;
+    height: 100px;
+}
+
